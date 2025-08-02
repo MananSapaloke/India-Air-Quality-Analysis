@@ -4,10 +4,6 @@
 
 ---
 
-### 🔴 [Live Interactive Dashboard Link]([YOUR-POWER-BI-PUBLISH-TO-WEB-LINK-HERE])
-
----
-
 ## Table of Contents
 - [Project Objective](#project-objective)
 - [Technology Stack](#technology-stack)
