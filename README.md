@@ -4,6 +4,10 @@
 
 ---
 
+### 🔴 [Live Interactive Dashboard Link]([YOUR-POWER-BI-PUBLISH-TO-WEB-LINK-HERE])
+
+---
+
 ## Table of Contents
 - [Project Objective](#project-objective)
 - [Technology Stack](#technology-stack)
@@ -73,5 +77,5 @@ This dashboard is more than just a collection of charts; it's an analytical tool
 
 **Manan Sapaloke**
 
-- **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE]([http://www.linkedin.com/in/manansapaloke])
+- **LinkedIn:** [https://www.linkedin.com/in/manansapaloke](https://www.linkedin.com/in/manansapaloke)
 - **GitHub:** [https://github.com/MananSapaloke](https://github.com/MananSapaloke)
